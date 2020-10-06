@@ -1,3 +1,3 @@
 # mi-primer-repo
-## Karla Paola Sosa López
-Ejemplos
+### Karla Paola Sosa López
+Ejericios del taller de programación. 
