@@ -1,6 +1,6 @@
 # mi-primer-repo
 ### Karla Paola Sosa López
 
-## Ejericios del taller de programación. 
+## Ejercicios del taller de programación. 
 #### Presentación
 #### Area
