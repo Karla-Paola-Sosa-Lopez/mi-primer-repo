@@ -2,5 +2,5 @@
 ### Karla Paola Sosa López
 
 ## Ejercicios del taller de programación. 
-#### Presentación
-#### Area
+#### Presentación https://github.com/Karla-Paola-Sosa-Lopez/mi-primer-repo/blob/main/Presentaci%C3%B3n.c
+#### Area https://github.com/Karla-Paola-Sosa-Lopez/mi-primer-repo/blob/main/Area%20.c
