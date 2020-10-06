@@ -3,4 +3,4 @@
 
 ## Ejericios del taller de programación. 
 Presentación
-Areá
+Area
