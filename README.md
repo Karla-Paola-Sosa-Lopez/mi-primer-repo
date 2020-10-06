@@ -1,5 +1,5 @@
 # mi-primer-repo
-### Karla Paola Sosa López
+### Alumna: Karla Paola Sosa López
 
 ## Ejercicios del taller de programación. 
 #### [1. Presentación](https://github.com/Karla-Paola-Sosa-Lopez/mi-primer-repo/blob/main/Presentaci%C3%B3n.c)
